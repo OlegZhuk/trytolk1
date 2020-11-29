@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Larsseit';
+    src: url('../fonts/Larsseit.woff2') format('woff2'),
+    url('../fonts/Larsseit.woff') format('woff');
+url('../fonts/Larsseit.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Larsseit';
+    src: url('../fonts/LarsseitBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
