@@ -498,7 +498,47 @@ position: relative;
         margin-left: 0;
 
     }
+    .help-items__size25 .help-item{
+        width: 50%;
+    }
+    .help-items{
 
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .help-items__size33 .help-item{
+        width: 50%;
+
+    }
+
+    .health{
+        margin-top: 20px;
+
+    }
+    .plan{
+        width: 50%;
+        padding: 20px 15px 15px 15px;
+
+
+    }
+    .plan-title{
+    margin-top: 0;
+       margin-bottom: 5px;
+    }
+    .affect-content{
+        padding: 20px 15px 15px 15px;
+
+    }
+
+    .affect-tittle{
+        margin-bottom: 20px;
+    }
+    .affect-text{
+        font-size: 18px;
+        line-height: 25px;
+    }
 
 
 }
