@@ -540,5 +540,36 @@ position: relative;
         line-height: 25px;
     }
 
+    .ready-content{
+        padding: 20px 15px 15px 15px;
+
+    }
+    .ready-tittle{
+        margin-top: 20px;
+        margin-bottom: 15px;
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .ready-text{
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .info-content{
+        padding: 0 15px;
+        display: block;
+    }
+    .info-colum{
+        width: 100%;
+    }
+    .info-tittle{
+        margin-bottom: 5px;
+        margin-top: 10px;
+    }
+    .info-text div:last-child{
+        margin-top: 0;
+    }
+    .info-text{
+        margin-bottom: 0;
+    }
 
 }
